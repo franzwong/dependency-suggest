@@ -1,6 +1,6 @@
 # Dependency suggest
 
-This rust program will download the latest version having the same major version. Then it will check if the latest version contains any vulnerabilities.
+This rust program will download the latest version of Java dependency having the same major version. Then it will check if the latest version contains any vulnerabilities.
 
 ## Why Rust?
 
